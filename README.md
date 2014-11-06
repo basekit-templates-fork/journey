@@ -1,6 +1,5 @@
-hatch
+Journey
 =====
 
-BaseKit's Hatch Template
+BaseKit's enom theme
 
-+ Switched to develop branch - 07/06/13
